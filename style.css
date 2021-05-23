@@ -1,0 +1,17 @@
+ul,ol {
+  
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   /*color: blue;*/
+   font-size: 20px;
+   position: relative;
+   left: 410px;
+   top: -260px;
+}
+
+.menu {
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}
+
+  
